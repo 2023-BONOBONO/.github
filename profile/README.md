@@ -1,6 +1,6 @@
 # 🌊 아픈 바다를 깨끗하게, 나랑해
 
-<p align="center"><img src="../assets/ic_launcher.png"></p>
+<p align="center"><img src="./assets/ic_launcher.png"></p>
 
 ```
 📢 SSFAY 9기 공통 프로젝트
@@ -17,22 +17,22 @@
 
 ## 🐢 1-1. 바다 캐릭터 구하기 & 캠페인 정보 모아보기
 <p align="center">
-  <img src="../assets/AR-캐릭터-잡기.gif" width="25%">
-  <img src="../assets/캠페인_정보.gif" width="25%">
+  <img src="./assets/AR-캐릭터-잡기.gif" width="25%">
+  <img src="./assets/캠페인_정보.gif" width="25%">
 </p>
 
 ## 🐢 1-2. 일일 미션
 <p align="center">
-  <img src="../assets/일일미션_OX.gif" width="25%">
-  <img src="../assets/일일미션_게임.gif" width="25%">
+  <img src="./assets/일일미션_OX.gif" width="25%">
+  <img src="./assets/일일미션_게임.gif" width="25%">
 </p>
 
 ## 🐢 1-3. 각종 커뮤니티
 <p align="center">
-  <img src="../assets/게시판_전체_보기.gif" width="20%">
-  <img src="../assets/자유게시판_글작성.gif" width="20%">
-  <img src="../assets/함께게시판-글작성.gif" width="20%">
-  <img src="../assets/신고게시판-글-작성.gif" width="20%">
+  <img src="./assets/게시판_전체_보기.gif" width="20%">
+  <img src="./assets/자유게시판_글작성.gif" width="20%">
+  <img src="./assets/함께게시판-글작성.gif" width="20%">
+  <img src="./assets/신고게시판-글-작성.gif" width="20%">
 </p>
 
 <br><br/>
@@ -40,14 +40,14 @@
 # 2. 기술 스택 
 ## 🐢 2-1. Android
 <p align="center">
-  <img src="../assets/android_architecture.png" width="45%">
-  <img src="../assets/android_skills.png" width="45%">
+  <img src="./assets/android_architecture.png" width="45%">
+  <img src="./assets/android_skills.png" width="45%">
 </p>
 
 ## 🐢 2-2. Backend 
 <p align="center">
-  <img src="../assets/backend_architecture.png" width="45%">
-  <img src="../assets/backend_skills.png" width="45%">
+  <img src="./assets/backend_architecture.png" width="45%">
+  <img src="./assets/backend_skills.png" width="45%">
 </p>
 
 <br><br/>
@@ -56,5 +56,5 @@
 
 |                   Android                    |                   Android                    |                   Android                    |                   Back end                   |                   Back end                   |                   Back end                    |
 | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :-------------------------------------------: |
-| <img src="./assets/김주용.png" width="100"/> | <img src="./assets/박준후.png" width="100"/> | <img src="../assets/황신운.png" width="100"/> | <img src="../assets/정진욱.png" width="100"/> | <img src="../assets/전수림.png" width="100"/> | <img src="../assets/김수민.png" width="100"/> |
+| <img src="./assets/김주용.png" width="100"/> | <img src="./assets/박준후.png" width="100"/> | <img src="./assets/황신운.png" width="100"/> | <img src="./assets/정진욱.png" width="100"/> | <img src="./assets/전수림.png" width="100"/> | <img src="./assets/김수민.png" width="100"/> |
 |                    김주용                    |                    박준후                    |                    황신운                    |                    정진욱                    |                    전수림                    |                    김수민                     |
