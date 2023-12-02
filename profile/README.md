@@ -1,12 +1,11 @@
-## Hi there 👋
+# 🌊 아픈 바다를 깨끗하게, 나랑해
 
-<!--
+![Header](./assets/ic_launcher.png)
 
-**Here are some ideas to get you started:**
+```
+📢 SSFAY 9기 공통 프로젝트
+📢 Team. 보노보노
+📢 23.07.04 ~ 23.08.14 (총 7주)
+```
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br/>
