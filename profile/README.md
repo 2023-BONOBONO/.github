@@ -38,13 +38,13 @@
 <br><br/>
 
 # 2. 기술 스택 
-## 🐢 2-1. 모바일 
+## 🐢 2-1. Android
 <p align="center">
   <img src="../assets/android_architecture.png" width="45%">
   <img src="../assets/android_skills.png" width="45%">
 </p>
 
-## 🐢 2-2. 백앤드 
+## 🐢 2-2. Backend 
 <p align="center">
   <img src="../assets/backend_architecture.png" width="45%">
   <img src="../assets/backend_skills.png" width="45%">
