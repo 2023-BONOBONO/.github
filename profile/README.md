@@ -15,19 +15,19 @@
 매 여름마다 방문하는 바다. 매년 전국 바다에서 수거되는 쓰레기가 12만톤이 넘어간다는 사실 알고계셨나요? 해양 쓰레기 절감을 위해 다양한 캠페인이 있습니다. 
 나랑해에서 게임, 일일미션, 커뮤니티 등으로 더 쉽고 재밌게 해양 쓰레기 절감에 동참해보세요! 
 
-## 1-1. 바다 캐릭터 구하기 & 캠페인 정보 모아보기
+## 🐢 1-1. 바다 캐릭터 구하기 & 캠페인 정보 모아보기
 <p align="center">
   <img src="../assets/AR-캐릭터-잡기.gif" width="25%">
   <img src="../assets/캠페인_정보.gif" width="25%">
 </p>
 
-## 1-2. 일일 미션
+## 🐢 1-2. 일일 미션
 <p align="center">
   <img src="../assets/일일미션_OX.gif" width="25%">
   <img src="../assets/일일미션_게임.gif" width="25%">
 </p>
 
-## 1-3. 각종 커뮤니티
+## 🐢 1-3. 각종 커뮤니티
 <p align="center">
   <img src="../assets/게시판_전체_보기.gif" width="20%">
   <img src="../assets/자유게시판_글작성.gif" width="20%">
@@ -38,13 +38,13 @@
 <br><br/>
 
 # 2. 기술 스택 
-## ⚒ 모바일 
+## 🐢 2-1. 모바일 
 <p align="center">
   <img src="../assets/android_architecture.png" width="45%">
   <img src="../assets/android_skills.png" width="45%">
 </p>
 
-## ⚒ 백앤드 
+## 🐢 2-2. 백앤드 
 <p align="center">
   <img src="../assets/backend_architecture.png" width="45%">
   <img src="../assets/backend_skills.png" width="45%">
