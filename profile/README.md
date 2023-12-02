@@ -1,6 +1,6 @@
 # 🌊 아픈 바다를 깨끗하게, 나랑해
 
-![Header](./assets/ic_launcher.png)
+<p align="center"><img src="../assets/ic_launcher.png"></p>
 
 ```
 📢 SSFAY 9기 공통 프로젝트
